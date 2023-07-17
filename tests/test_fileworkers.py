@@ -1,3 +1,3 @@
 
 
-def test_read_from_file()
+def test_read_from_file():
